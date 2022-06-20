@@ -13,3 +13,13 @@ Height — Height of Player
 Weight — Weight of player
 Position — Position on the pitch
 Overall — Player’s Overall Rating
+
+## Inferences and Conclusion
+- We've drawn many interesting conclusions from this dataset and analysis. Some of them are -
+- There are 17981 players in Fifa 21.
+- There are 162 different countries from where there are players in Fifa 21. Out of which there are 3 countries with more than 1000 players.
+- There are 1496 players from England, 1138 players from Germany and 1055 players from Spain.
+- There are around 713 clubs with each club having around 30 players.
+- Maximum number of players falls in the age group 25 to 30.
+- More than 1400 players are of the age 24.
+- Highest overall rating in Fifa 21 is 94. Lionel Messi is the highest rated player with 94 overall rating
